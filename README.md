@@ -1,13 +1,13 @@
-🌟 Liver Disease Prediction 🚀
+# 🌟 Liver Disease Prediction 🚀
 
-📌 **Project Overview**
+## 📌 **Project Overview**
 Welcome to the **Liver Disease Prediction** project! This machine learning model helps predict the presence of liver disease based on various health indicators.
 
-📂 **Dataset Information**
+## 📂 **Dataset Information**
 
 📄 **File:** Indian_Liver_Patient_Dataset.csv
 
-📊 **Features:**
+## 📊 **Features:**
 
 - 🧑‍⚕️ **Age:** Age of the patient
   
@@ -31,7 +31,7 @@ Welcome to the **Liver Disease Prediction** project! This machine learning model
   
 - ⚕️ **Liver Disease Presence:** Target variable (1 - Disease, 0 - No Disease)
 
-🔍 **Model Implementation**
+## 🔍 **Model Implementation**
 
 📜 **File:** LIVER_DISEASE_PREDICTION.ipynb
 
@@ -45,7 +45,7 @@ Welcome to the **Liver Disease Prediction** project! This machine learning model
   
 - 📈 **Model Evaluation** - Assessing accuracy and performance metrics
 
-🤖 **Models Used**
+## 🤖 **Models Used**
 
 - 🔹 Logistic Regression
   
@@ -61,7 +61,7 @@ Welcome to the **Liver Disease Prediction** project! This machine learning model
   
 - 🔹 MLP Classifier
 
-📉 **Metrics Used**
+## 📉 **Metrics Used**
 
 - 📌 Precision
   
@@ -71,13 +71,13 @@ Welcome to the **Liver Disease Prediction** project! This machine learning model
   
 
 
-🔍 **Hyperparameter Tuning & Optimization**
+## 🔍 **Hyperparameter Tuning & Optimization**
 
 - ✅ Used  RandomizedSearchCV for optimal parameter selection.
   
 - ✅ Applied cross-validation techniques for better model generalization.
 
-🔑 **Key Insights**
+## 🔑 **Key Insights**
 
 - 🩸 High levels of bilirubin, AST, and ALT enzymes are strong indicators of liver disease.
   
@@ -85,7 +85,7 @@ Welcome to the **Liver Disease Prediction** project! This machine learning model
   
 - 🚻 Gender differences observed, with a slightly higher prevalence in males.
 
-🎯 **Conclusion**
+## 🎯 **Conclusion**
 
 This project successfully predicts liver disease using multiple classification models. The K-Nearest Neighbors (KNN) provided the best performance. The findings highlight that **bilirubin levels, liver enzymes, and albumin concentration** are key factors in diagnosing liver disease.
 
